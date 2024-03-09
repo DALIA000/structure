@@ -1,0 +1,42 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use App\Traits\Accountable;
+use SoftDeletes;
+use CascadesDeletes;
+use App\Traits\MediaTrait;
+
+class Federation extends Model implements \Spatie\MediaLibrary\HasMedia
+{
+    use HasFactory;
+    use SoftDeletes;
+    use CascadesDeletes;
+    use MediaTrait;
+    use Accountable;
+
+    protected $guarded = [];
+
+    protected $casts = [
+        'user_id' => 'integer',
+    ];
+
+    // related files
+    public static $files = [];
+
+    // cascade delete
+    protected $cascadeDeletes = [];
+
+    // prevent if any exists
+    public static $cascade = [];
+
+    // locales columns
+    public static $locales_columns = [
+    ];
+    public function federation_president()
+    {
+        return $this->hasOne(FederationPresident::class);
+    }
+}

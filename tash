@@ -1,0 +1,196 @@
+[33m2ea4f61[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m handle app blogs
+[33m01fc96a[m handle upload media
+[33ma7fdd3d[m fix code
+[33m33d35a5[m suppress php404
+[33m1453822[m edit user
+[33m5ee947c[m video likes
+[33m64f67d6[m refine route api fike
+[33m97d81be[m handle video2
+[33mf41313d[m handle video
+[33m9415838[m handle spams
+[33m76beb8c[m handle spam-sections
+[33mb0b3ecb[m handle fans2
+[33ma7fb292[m handle fans
+[33mcb6f567[m handle influencer
+[33m2a6b9ba[m FederationResource
+[33ma337609[m business seeder
+[33m1eea25f[m influencer, journalist seeder
+[33m5a9805d[m journalist, trainer username - x
+[33m862c807[m journalist, trainer username
+[33m040f2f7[m journalist search
+[33mbbe83e4[m trainer_experience_level search
+[33mde79188[m Merge branch 'main' of https://github.com/dubisign/Sport-API
+[33me7d3f5f[m trainers bug
+[33m23d71aa[m tags
+[33ma282d5c[m trashed blogs
+[33m4333e46[m handle follow
+[33m537172c[m handle block
+[33m06862ff[m handle save3
+[33m30e703b[m handle save2
+[33me1abe5f[m handle save
+[33m9661e65[m preference status
+[33m8c6549b[m EditPreference
+[33m84cc48d[m PreferenceSeeder
+[33mbe6fbdd[m LanguageSeeder to Database seeder
+[33m9417c66[m club search email, phone
+[33m7a809f3[m trashed blog
+[33mf6c88a3[m club lat, long
+[33med6cbaa[m club birthday
+[33m411c3aa[m club fix
+[33mab502f0[m federation typo
+[33m966df77[m club image fix
+[33mabcedcf[m club images
+[33mf72bb31[m fix image on edit
+[33m17a4377[m refine MediaRule
+[33m481b421[m trainer resource
+[33m6ac2e66[m handle businesses
+[33m92ce331[m handle Journalists
+[33mfbc9b22[m typo
+[33me46f397[m handle trainer
+[33m2c1ea22[m handle preferences
+[33m128fd77[m handle fedreation
+[33m2ddfd1a[m clubplayer image
+[33m3bfff91[m fix player position
+[33m6339d89[m fixs
+[33m3575816[m president image
+[33m3729733[m club president
+[33m5fa2179[m user resource phone2
+[33mba3b15e[m user resource phone
+[33m7e99b65[m fix
+[33m0805f5d[m alpha_spaceable
+[33m5c3fb94[m filter by club_id
+[33m6b224aa[m handle club player
+[33me60bb2f[m error key
+[33md0b3e7d[m login fix
+[33m58c8be7[m edit club
+[33m36b7a03[m usertype
+[33m70fd4f3[m fix media
+[33m976f1a0[m resource
+[33m9f2a2c6[m create club
+[33m9130af0[m city filter
+[33mf8c8094[m handle club
+[33m1857801[m block , unblock player
+[33mb265650[m players status filter2
+[33m078a035[m players status filter
+[33m878b31d[m PlayersListResource
+[33ma424e2d[m status slug
+[33m4a554af[m change password
+[33m957533f[m user profile
+[33m04151bf[m handle clubs website
+[33mcb164a1[m user sign up refine
+[33m15cd69c[m academy block, unblock
+[33mc766d09[m edit profile
+[33m12f92ea[m user status
+[33m7892252[m model status
+[33m4b8e045[m user-types dashboard
+[33m0d9eb4b[m UserRepository fix
+[33mc5aea82[m remove belongs to throght2
+[33m5b35808[m remove belongs to throght
+[33m20ff606[m academy
+[33m0f17649[m player4
+[33m4d486fe[m player3
+[33m378839a[m player2
+[33m88ab9db[m player
+[33mc8310bf[m players list
+[33m31e5437[m send rejected notification
+[33m7a2bb3f[m send accepted notification
+[33m0c5bd09[m reject academy
+[33m62ea6c5[m handle accept academy
+[33mef75dc5[m handle academies dashboard
+[33me5aa561[m social tani
+[33m860227c[m user resource
+[33m7973396[m UserResource
+[33mb200f3e[m admin seeder
+[33m1243b8f[m journalist signup
+[33mabb96f1[m trainer signup2
+[33m7188200[m trainer signup
+[33m2cf2267[m handle player signup
+[33m230df6a[m user types availblelist
+[33m511b3dd[m repo
+[33m54139c5[m fix academies
+[33m1fee78e[m documents
+[33mff7f773[m signup +
+[33m65fde0b[m handle user certifications
+[33mb4a672d[m handle status 2
+[33m9fd522e[m handle status
+[33me83d25d[m country localize
+[33meaf915c[m UserTypeController order
+[33m07eadeb[m TempSeeder
+[33m8ca05c6[m user_type slug2
+[33ma9783e6[m user_type slug
+[33m6cd9098[m refine
+[33mf23559e[m city delete
+[33m2c29518[m handle cities
+[33m72808ba[m jandle academies
+[33m11c8189[m blog issue
+[33me16e38a[m fix migrations
+[33m77839dd[m refine country
+[33m0945ddc[m handle cities
+[33me74560d[m fix migrations
+[33m8894ab3[m refine Country
+[33macff578[m handle countries
+[33m00b2d2a[m Merge branch 'main' of https://github.com/dubisign/Sport-API
+[33m2014b94[m social connect
+[33m0a7aa73[m merge
+[33m09efc95[m Merge pull request #1 from hananessam-dubi/mostafa
+[33m1695119[m forget password process
+[33m4eee9ee[m profile
+[33m784cafc[m handle verification
+[33m6e60551[m logout
+[33macaa061[m logout
+[33m1128870[m logout
+[33m5550dd1[m handle login
+[33m3c42571[m handle verification code process
+[33mf51a339[m handle email verification process
+[33m6775aa9[m use refine
+[33md3d8839[m finish blogs and tags
+[33m2f407b1[m academy levels
+[33m1da46b9[m PlayerPosition + PlayerFootnesses DatabaseSeeder
+[33mbba72c4[m PlayerPosition + PlayerFootnesses
+[33m589a1c8[m handle paginate
+[33m85cfcff[m merge
+[33m04bdaf5[m fix bug in property in baseRep
+[33mb564178[m localizable enhancement
+[33ma4b959f[m user types
+[33m7fb67e5[m user - city relationship
+[33mded69f9[m user - signup
+[33mae4d49b[m finish setting {about us , terms and condations , privacy policy }
+[33mc4838f3[m fix conflict
+[33m57e279c[m signup user
+[33m88bc068[m finish player positions , player footnesses , trainer experience levels
+[33m52fbdaa[m finish academy levels
+[33m926394c[m half way
+[33mdce2f7d[m finish admin and reset password
+[33m58b1aa8[m users verification_codes migration
+[33m16d8e3f[m users social auth migration
+[33m70bb4f1[m userFactory
+[33med70d7a[m users migration - add bio
+[33mc1937b2[m users migration
+[33md7306cf[m image migration fix
+[33m1ed8238[m locale utility
+[33m5bbb7cf[m iamge utility
+[33ma73d7ad[m trait - Urlable
+[33m7cf649e[m RouteServiceProvider web
+[33mcbc9704[m finsih login reset password in admin
+[33mf709d62[m finish login admin
+[33m96aade6[m Merge branch 'main' of https://github.com/hananessam-dubi/riada-api into mostafa
+[33ma55e7d0[m ini admin
+[33m2622fd3[m fix validation
+[33m72d20d3[m traits Localizable - Imageable
+[33m93dd639[m BaseRepository 2
+[33m3e0cf7f[m UserRepository
+[33m86f3e35[m BaseRepository
+[33m0c55772[m langs
+[33md61e310[m auth2
+[33m011c8ac[m auth
+[33mfd8fd2c[m filesystem
+[33m683a18e[m helpers
+[33ma28e349[m routes
+[33m11b84e3[m providers RouteServiceProvider
+[33m7dea28a[m providers RepositoriesServiceProvider
+[33m169521b[m enums UserType - Status - PostType
+[33me8c0f1f[m services FileUploader - LoggedinUser - PPGenerator
+[33mf855eb9[m middlewares Countrylization - GetRequestIp - Localization
+[33me8ee9f9[m env-example initial values
+[33m6271770[m env-example initial values
+[33m25df0fc[m init

@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "port": 6002,
+    "appManager.array.apps": [
+        {
+            "id": "remontadafc",
+            "key": "324431245365857657118194",
+            "secret": "zTEWYVnEymjdrvA4vHtLhZch",
+            "webhooks": [
+                {
+                    "url": "https://remontadafc.com",
+                    "event_types": ["channel_occupied"]
+                }
+            ]
+        }
+    ]
+}
